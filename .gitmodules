@@ -1,0 +1,6 @@
+[submodule "phaser"]
+	path = phaser
+	url = https://github.com/photonstorm/phaser.git
+[submodule "phaser_isometric"]
+	path = phaser_isometric
+	url = https://github.com/lewster32/phaser-plugin-isometric.git
